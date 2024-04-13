@@ -1,4 +1,4 @@
-Regardless of the past, dont't worry about the future, just live in the momennt.
+Regardless of the past, don't worry about the future, just live in the momennt.
 
 <!--
 **w2xi/w2xi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
